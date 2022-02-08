@@ -1,6 +1,9 @@
 # Cards
 
-**TODO: Add description**
+## To run interateve shell, type code below
+```elixir
+iex -S mix
+```
 
 ## Installation
 
